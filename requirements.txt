@@ -1,3 +1,4 @@
-torch==1.11.0+cu113
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.11.0+cpu
 onnxruntime==1.11.1
 onnx==1.11.0
